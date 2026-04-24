@@ -4,3 +4,4 @@ import logging
 import time
  
 print("hello world")
+print("lucky")
